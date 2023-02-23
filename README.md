@@ -11,6 +11,10 @@
 - 📫 How to reach me in rar1602@gmail.com
 
 
+##
+  ![Snake animation](https://github.com/ciriandev/ciriandev/blob/output/github-contribution-grid-snake.svg)
+
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/ciriandev?style=social)
 <!---
 ciriandev/ciriandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
