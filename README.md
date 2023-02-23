@@ -11,7 +11,7 @@
 - 📫 How to reach me in rar1602@gmail.com
 
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/ciriandev?style=social)
 <!---
 ciriandev/ciriandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
