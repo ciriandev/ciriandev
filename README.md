@@ -2,6 +2,7 @@
 <div id="header" align="center">
    <img src="https://github.com/ciriandev/ciriandev/blob/main/imagenes/Zorro.png" />
 </div>
+</div>
 
 <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
