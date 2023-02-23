@@ -1,3 +1,5 @@
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
 - 👋 Hi, I’m @ciriandev from Spain 
 - 👀 I’m interested in Kotlin, Flutter with Dart and Database languages.
 - 🌱 I’m currently learning about all these languages and also about gitHub.
