@@ -1,6 +1,6 @@
 # CIRIANDEV by Roberto Abalo
 <div id="header" align="center">
-   <img src="https://github.com/ciriandev/ciriandev/blob/main/pngwing.com.png" whidth="50"/>
+   <img src="https://github.com/ciriandev/ciriandev/blob/main/pngwing.com.png" whidth="15"/>
 </div>
 
 <p align="center">
