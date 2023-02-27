@@ -13,8 +13,10 @@
 - 💞️ I’m looking to collaborate on in mobile application development
 - 📫 How to reach me in rar1602@gmail.com
 
-
-
+<div align="left">
+   <h3> Languajes and Tools:</h3>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"> &nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"> &nbsp;
 
 
 ##
