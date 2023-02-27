@@ -14,10 +14,14 @@
 - 📫 How to reach me in rar1602@gmail.com
 
 <div align="left">
-   <h3> Languajes and Tools:</h3>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"> &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"> &nbsp;
-
+   <h3> Languajes:</h3>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"> &nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"> &nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="dart" width="40" height="40"> &nbsp;
+   <h3> Tools: </h3>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="flutter" width="40" height="40"> &nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="arduino" width="40" height="40"> &nbsp;
+</div>
 
 ##
 
