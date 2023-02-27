@@ -21,6 +21,7 @@
    <h3> Tools: </h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="flutter" width="40" height="40"> &nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="arduino" width="40" height="40"> &nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="android" width="40" height="40"> &nbsp;
 </div>
 
 ##
