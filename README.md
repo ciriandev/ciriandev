@@ -75,5 +75,5 @@
 
 - ⚡ **Did you know?** I am passionate about **open-source projects** and enjoy working on mobile development challenges.
 - ⚡ In addition to coding, I enjoy playing **strategic board games**, which helps sharpen my problem-solving skills.
-- ⚡ "I'm passionate about **photography**, and I integrate it into my designs whenever I get the chance."
-- ⚡ "I'm a big fan of music, and I often find myself coding to the sound of relaxing music—it helps me stay focused."
+- ⚡ I'm passionate about **photography**, and I integrate it into my designs whenever I get the chance.
+- ⚡ I'm a big fan of music, and I often find myself coding to the sound of relaxing music—it helps me stay focused.
