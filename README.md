@@ -48,12 +48,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciriandev&layout=compact&theme=radical" alt="Top Languages" width="335">
 </p>
 
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ciriandev&theme=radical" alt="Repos by Language">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ciriandev&theme=radical" alt="Most Used Languages">
+</p>
+
 ---
 
 ### 📈 Contribution Streak:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciriandev&theme=radical" alt="Contribution Streak">
+  <img src="https://streak-stats.demolab.com?user=ciriandev&theme=radical" alt="Contribution Streak">
 </p>
 
 ---
