@@ -58,8 +58,7 @@
 ### 📈 Contribution Streak:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ciriandev&theme=radical" alt="Contribution Streak">
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=ciriandev)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=ciriandev" alt="Contribution Streak">
 </p>
 
 ---
