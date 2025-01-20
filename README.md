@@ -1,7 +1,7 @@
 # CIRIANDEV - Roberto Abalo
 
 <div id="header" align="center">
-   <img src="https://github.com/ciriandev/ciriandev/blob/main/imagenes/Zorro.png" alt="Logo" width="200"/>
+   <img src="https://github.com/ciriandev/ciriandev/blob/main/imagenes/Banner Github.png" alt="Logo" width="1024"/>
 </div>
 
 <p align="center">
